@@ -54,15 +54,17 @@ This repository contains the completed **UI/UX Enhancement** task for the FOSSEE
 ## 📸 Visual Showcase
 
 ### Before Redesign
-*(Please insert screenshots of the legacy Django UI or previous styling here)*
-- `![Before Login](./frontend/docs/before-login.png)`
-- `![Before Dashboard](./frontend/docs/before-dashboard.png)`
+*(Original Django Templates)*
+- ![Before Login](./frontend/docs/before_login.png)
+- ![Before Dashboard/Statistics](./frontend/docs/before-dashboard.png)
 
 ### After Redesign
-*(Please insert screenshots of the clean React UI here)*
-- `![After Login](./frontend/docs/after-login.png)`
-- `![After Dashboard](./frontend/docs/after-dashboard.png)`
-- `![After Statistics](./frontend/docs/after-stats.png)`
+*(Modernized React/Tailwind Interface)*
+- ![After Login](./frontend/docs/after-login.png)
+- ![After Register](./frontend/docs/after-sign-up.png)
+- ![After Dashboard](./frontend/docs/after-dashboard.png)
+- ![After Statistics](./frontend/docs/after-stat.png)
+- ![After Profile](./frontend/docs/after-profile.png)
 
 ---
 
